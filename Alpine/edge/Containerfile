@@ -1,0 +1,6 @@
+FROM quay.io/toolbx-images/alpine-toolbox:edge
+
+COPY packages /tmp/
+
+RUN apk add $(cat /tmp/packages | grep "^[^#;]")
+
