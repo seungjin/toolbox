@@ -98,3 +98,4 @@ webkit2gtk4.1-devel
 libseccomp-devel
 entr
 xcb-util
+xcb-util-devel
