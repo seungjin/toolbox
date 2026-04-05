@@ -99,3 +99,4 @@ libseccomp-devel
 entr
 xcb-util
 xcb-util-devel
+rocksdb-tools
