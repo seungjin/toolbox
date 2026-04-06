@@ -94,3 +94,4 @@ javascriptcoregtk4.1-devel
 webkit2gtk4.1-devel
 libseccomp-devel
 rocksdb-tools
+rsync

@@ -100,3 +100,4 @@ entr
 xcb-util
 xcb-util-devel
 rocksdb-tools
+rsync
