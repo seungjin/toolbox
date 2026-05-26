@@ -2,6 +2,7 @@ bind-utils
 cyrus-sasl-plain
 emacs
 gnome-keyring
+glibc-langpack-en
 htop
 jq
 libxml2
@@ -9,7 +10,9 @@ libxml2-devel
 mg
 net-tools
 nodejs
+nmap
 openssl-devel
+procps-ng
 scrot
 sqlite-tools
 xset
@@ -93,5 +96,9 @@ libsoup3-devel
 javascriptcoregtk4.1-devel
 webkit2gtk4.1-devel
 libseccomp-devel
+entr
+xcb-util
+xcb-util-devel
 rocksdb-tools
 rsync
+copr-cli
