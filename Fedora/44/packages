@@ -101,3 +101,4 @@ xcb-util
 xcb-util-devel
 rocksdb-tools
 rsync
+copr-cli
