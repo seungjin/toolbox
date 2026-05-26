@@ -102,3 +102,4 @@ xcb-util-devel
 rocksdb-tools
 rsync
 copr-cli
+rust2rpm
