@@ -1,5 +1,7 @@
 FROM quay.io/fedora/fedora:44
 
+LABEL com.github.containers.toolbox="true"
+
 RUN dnf update -y
 RUN dnf -y group install development-tools
 
