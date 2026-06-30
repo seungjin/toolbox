@@ -103,3 +103,5 @@ rocksdb-tools
 rsync
 copr-cli
 rust2rpm
+libcap-devel
+
