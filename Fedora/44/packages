@@ -106,4 +106,5 @@ rust2rpm
 libcap-devel
 libcap-static
 valkey-cli
+seahorse
 
